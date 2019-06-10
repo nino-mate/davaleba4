@@ -46,7 +46,7 @@ section{
 }
 .item{
 	display: inline-block;
-	width: 320px;
+	width: 350px;
 	background-color: #F2F2F2;
 	padding: 15px;
 }
@@ -63,7 +63,7 @@ section{
 }
 .text-box{
 	display: inline-block;
-	width: 300px;
+	width: 343px;
 	vertical-align: top;
 }
 footer{
