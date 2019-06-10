@@ -11,7 +11,7 @@ nav{
 	display: inline-block;
 }
 .navigation_ul{
-	font-family: BPG Nino Mtavruli;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	color: #3D58A6;
 	size: 22pt;
 }
@@ -42,11 +42,11 @@ section{
 .title_section{
 	font-size: 24px;
 	margin-bottom: 35px;
-	font-family: Roboto;
+	font-family: 'Roboto', sans-serif;
 }
 .item{
 	display: inline-block;
-	width: 350px;
+	width: 550px;
 	background-color: #F2F2F2;
 	padding: 15px;
 }
@@ -55,6 +55,7 @@ section{
 	font-size: 22px;
 	color: #3D58A6
 	margin-left: 22px;
+	font-family: 'Roboto', sans-serif;
 }
 .photo-box{
 	height: 100px;
@@ -63,8 +64,9 @@ section{
 }
 .text-box{
 	display: inline-block;
-	width: 343px;
+	width: 543px;
 	vertical-align: top;
+	font-family: 'Roboto', sans-serif;
 }
 footer{
 	padding-top: 216px;
@@ -81,4 +83,85 @@ footer{
 .footer_logo_youtube{
 	width: 24.821px;
 	margin-left: 30.19px;
+}
+
+
+.bluebox27{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 45px;
+	color: white;
+	padding: 7px 5.5px 0 5.5px;
+	display: inline;
+	background-color: #3D58A6;
+}
+.maisi{
+	padding-top: 9px;
+	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 22px;
+}
+.lorem{
+	font-size: 20px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	padding-top: 18px;
+}
+.photo_page2{
+	display: inline-block;
+	width: 180px;
+	padding-top: 28px;
+}
+.articlep{
+	display: inline-block;
+	font-size: 11.33px;
+	font-family: BPG Ingiri Arial, sans-serif;
+	padding-left: 25px;
+	padding-top: 28px;
+	width: 600px;
+	vertical-align: top;
+}
+.footer_logo_fb{
+	display: inline;
+	width: 14px;
+	border-right: solid;
+	border-right-color: #3D58A6;
+	border-width: 1pt;
+	padding-right: 35.609px;
+	margin-top: 40.67px;
+}
+.footer_logo_youtube{
+	width: 24.821px;
+	margin-left: 40.67px;
+}
+
+.section{
+	width: 248.99px;
+}
+.maps{
+	display: inline-block;
+	width: 874px;
+}
+.kontaqti{
+	display: inline-block;
+	font-weight: bolder;
+	font-size: 11.67px;
+	font-family: BPG Nino Mtavruli, sans-serif;
+	color: gray;
+	padding-top: 7.51px;
+}
+span{
+	color: black;
+}
+span-2{
+color: red;
+}
+.sakontaqto_info{
+	font-size: 16.15px;
+	font-family: BPG Nino Mtavruli;
+	color: #3D58A6;
+	font-weight: bolder;
+	padding-top: 83px;
+}
+body{
+	padding-top: 33.41px;
+	padding-left: 30.15px;
 }
